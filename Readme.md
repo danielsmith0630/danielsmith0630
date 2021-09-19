@@ -4,7 +4,7 @@
  - Loves to challenge technical difficulties and learn new technologies
  - Full of creative thinking and highly experienced in various fields
 
-Highly specialized in Blockchain technologies including Ethereum / Solidity and Hyperledger Fabric / Chaincode.  
+Highly specialized in Blockchain technologies including Ethereum / Solidity / DApp, Polygon, Layer 2, DeFi and Hyperledger Fabric / Chaincode.  
 Skilled in web frontend development with React / Vue.js / Angular, Bootstrap, Material UI, and so on.  
 Well versed in backend development with Golang, NodeJs, Python, C#, PHP, SQL and NoSQL databases, REST API and GraphQL.  
 Highly experienced in Android / iOS Mobile app development with Java / Kotlin, Swift / Objective-C, Flutter, ReactNative, and NativeScript.  
